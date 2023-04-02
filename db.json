@@ -1,0 +1,464 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "title": "json-server",
+            "author": "typicode"
+        }
+    ],
+    "comments": [
+        {
+            "id": 1,
+            "body": "some comment",
+            "postId": 1
+        }
+    ],
+    "users": [
+        {
+            "id": 1,
+            "username": "shudhanshu",
+            "password": 12345
+        },
+        {
+            "id": 2,
+            "username": "rohit",
+            "password": 12345
+        }
+    ],
+    "homedata": [
+        {
+            "id": 1,
+            "image": "https://images10.gaadi.com/usedcar_image/original/usedcar_42_729891676908834_1676908913.jpg?imwidth=320",
+            "category": "car",
+            "price": 350000,
+            "description": "Mahindra bolero new 2 yeqars old",
+            "location": "bangalore",
+            "uploadeddate": "14 march"
+        },
+        {
+            "id": 2,
+            "image": "https://apollo-singapore.akamaized.net/v1/files/3ov0cvcyul2z2-IN/image;s=300x600;q=60",
+            "category": "mobile",
+            "price": 27623,
+            "description": "nokia XR 23Vq 15 days old",
+            "location": "kanpur",
+            "uploadeddate": "21 july"
+        },
+        {
+            "id": 3,
+            "image": "https://images10.gaadi.com/usedcar_image/original/zz1_crop_img_6427a3476f4e8_1680319303.jpg?imwidth=320",
+            "category": "car",
+            "price": 387623,
+            "description": "toyota XR 23VqW 90 days old",
+            "location": "delhi",
+            "uploadeddate": "28 june"
+        },
+        {
+            "id": 4,
+            "image": "https://apollo-singapore.akamaized.net/v1/files/3eoriuysdg4c-IN/image;s=300x600;q=60",
+            "category": "mobile",
+            "price": 19755,
+            "description": "samsung galaxy ZTR 1T",
+            "location": "orissa",
+            "uploadeddate": "14 days ago"
+        },
+        {
+            "id": 5,
+            "image": "https://apollo-singapore.akamaized.net/v1/files/q21byccry6dp-IN/image;s=300x600;q=60",
+            "category": "mobile",
+            "price": 23671,
+            "description": "ReaLME galY62 Black carbon",
+            "location": "ranchi",
+            "uploadeddate": "19 january"
+        },
+        {
+            "id": 6,
+            "image": "https://apollo-singapore.akamaized.net/v1/files/absthlti29o81-IN/image;s=300x600;q=60",
+            "category": "motorcycle",
+            "price": 234651,
+            "description": "KTM Xt23zw 250cc Bike",
+            "location": "kanpur",
+            "uploadeddate": "3 days ago"
+        },
+        {
+            "id": 7,
+            "image": "https://images10.gaadi.com/usedcar_image/original/zz1_crop_img_6427a3476f4e8_1680319303.jpg?imwidth=320",
+            "category": "car",
+            "price": 870423,
+            "description": "2019 Land Rover Range Rover 27000Km",
+            "location": "delhi Ncr",
+            "uploadeddate": "28 days ago"
+        },
+        {
+            "id": 8,
+            "image": "https://images10.gaadi.com/usedcar_image/original/used_car_2737283_1679916790.jpg?imwidth=320",
+            "category": "car",
+            "price": 157899,
+            "description": "2019 BMW X5 xDrive 30d Deisel engine ",
+            "location": "Haryana",
+            "uploadeddate": "23 march"
+        },
+        {
+            "id": 9,
+            "image": "https://apollo-singapore.akamaized.net/v1/files/d3ir9f1rgl3b3-IN/image;s=300x600;q=60",
+            "category": "mobile",
+            "price": 34512,
+            "description": "Xiaomi Redmi Note 12 Pro Plus ",
+            "location": "bihar",
+            "uploadeddate": "1 january"
+        },
+        {
+            "id": 10,
+            "image": "https://apollo-singapore.akamaized.net/v1/files/aq9apqq5dddg3-IN/image;s=300x600;q=60",
+            "category": "house",
+            "price": 5045671,
+            "description": "3 BHK house very affordable",
+            "location": "Mumbai",
+            "uploadeddate": "16 days ago"
+        },
+        {
+            "id": 11,
+            "image": "https://apollo-singapore.akamaized.net/v1/files/9fvdwskkjkly1-IN/image;s=300x600;q=60",
+            "category": "house",
+            "price": 5045671,
+            "description": "4 BHK house styleish,class sphistoication",
+            "location": "Gurgaon",
+            "uploadeddate": "28 December"
+        },
+        {
+            "id": 12,
+            "image": "https://apollo-singapore.akamaized.net/v1/files/u3164zuihlpo1-IN/image;s=300x600;q=60",
+            "category": "motorcycle",
+            "price": 123438,
+            "description": "Triumph  rocket 250cc stylsih Bike ",
+            "location": "Uttrakhand",
+            "uploadeddate": "12 february"
+        },
+        {
+            "id": 13,
+            "image": "https://images10.gaadi.com/usedcar_image/original/used_car_2706118_1677224498.jpg?imwidth=320",
+            "category": "car",
+            "price": 5000000,
+            "description": "2016 Mercedes-Benz GLS Business class",
+            "location": "Nagpur",
+            "uploadeddate": "3 April"
+        },
+        {
+            "id": 14,
+            "image": "https://images10.gaadi.com/usedcar_image/original/usedcar_11_729891680334936_1680334951.jpg?imwidth=320",
+            "category": "car",
+            "price": 3467200,
+            "description": "2015 Hyundai XRt-v345",
+            "location": "West Bengal",
+            "uploadeddate": "23 days ago"
+        },
+        {
+            "id": 15,
+            "image": "https://apollo-singapore.akamaized.net/v1/files/yixc7orfhdhh1-IN/image;s=300x600;q=60",
+            "category": "scooter",
+            "price": 54300,
+            "description": "Honda Grazia in good quality",
+            "location": "Kerala",
+            "uploadeddate": "7 july"
+        },
+        {
+            "id": 16,
+            "image": "https://apollo-singapore.akamaized.net/v1/files/ykxq7yqjtv6j3-IN/image;s=300x600;q=60",
+            "category": "mobile",
+            "price": 19860,
+            "description": "Pocco M3 x5-TY ",
+            "location": "UttarPradesh",
+            "uploadeddate": "1 day ago"
+        },
+        {
+            "id": 17,
+            "image": "https://apollo-singapore.akamaized.net/v1/files/tb44pfb13fv5-IN/image;s=300x600;q=60",
+            "category": "mobile",
+            "price": 78534,
+            "description": "I-Phone 15 in good condition",
+            "location": "Madhya Pradesh",
+            "uploadeddate": "22 days ago"
+        },
+        {
+            "id": 18,
+            "image": "https://apollo-singapore.akamaized.net/v1/files/3eoriuysdg4c-IN/image;s=300x600;q=60",
+            "category": "mobile",
+            "price": 19755,
+            "description": "samsung galaxy ZTR 1T",
+            "location": "orissa",
+            "uploadeddate": "14 days ago"
+        },
+        {
+            "id": 19,
+            "image": "https://apollo-singapore.akamaized.net/v1/files/q21byccry6dp-IN/image;s=300x600;q=60",
+            "category": "mobile",
+            "price": 23671,
+            "description": "ReaLME galY62 Black carbon",
+            "location": "ranchi",
+            "uploadeddate": "19 january"
+        },
+        {
+            "id": 20,
+            "image": "https://apollo-singapore.akamaized.net/v1/files/absthlti29o81-IN/image;s=300x600;q=60",
+            "category": "motorcycle",
+            "price": 234651,
+            "description": "KTM Xt23zw 250cc Bike",
+            "location": "kanpur",
+            "uploadeddate": "3 days ago"
+        },
+        {
+            "id": 21,
+            "image": "https://images10.gaadi.com/usedcar_image/original/zz1_crop_img_6427a3476f4e8_1680319303.jpg?imwidth=320",
+            "category": "car",
+            "price": 870423,
+            "description": "2019 Land Rover Range Rover 27000Km",
+            "location": "delhi Ncr",
+            "uploadeddate": "28 days ago"
+        },
+        {
+            "id": 22,
+            "image": "https://images10.gaadi.com/usedcar_image/original/used_car_2737283_1679916790.jpg?imwidth=320",
+            "category": "car",
+            "price": 157899,
+            "description": "2019 BMW X5 xDrive 30d Deisel engine ",
+            "location": "Haryana",
+            "uploadeddate": "23 march"
+        },
+        {
+            "id": 23,
+            "image": "https://apollo-singapore.akamaized.net/v1/files/d3ir9f1rgl3b3-IN/image;s=300x600;q=60",
+            "category": "mobile",
+            "price": 34512,
+            "description": "Xiaomi Redmi Note 12 Pro Plus ",
+            "location": "bihar",
+            "uploadeddate": "1 january"
+        },
+        {
+            "id": 24,
+            "image": "https://apollo-singapore.akamaized.net/v1/files/aq9apqq5dddg3-IN/image;s=300x600;q=60",
+            "category": "house",
+            "price": 5045671,
+            "description": "3 BHK house very affordable",
+            "location": "Mumbai",
+            "uploadeddate": "16 days ago"
+        },
+        {
+            "id": 25,
+            "image": "https://apollo-singapore.akamaized.net/v1/files/9fvdwskkjkly1-IN/image;s=300x600;q=60",
+            "category": "house",
+            "price": 5045671,
+            "description": "4 BHK house styleish,class sphistoication",
+            "location": "Gurgaon",
+            "uploadeddate": "28 December"
+        },
+        {
+            "id": 26,
+            "image": "https://apollo-singapore.akamaized.net/v1/files/u3164zuihlpo1-IN/image;s=300x600;q=60",
+            "category": "motorcycle",
+            "price": 123438,
+            "description": "Triumph  rocket 250cc stylsih Bike ",
+            "location": "Uttrakhand",
+            "uploadeddate": "12 february"
+        },
+        {
+            "id": 27,
+            "image": "https://images10.gaadi.com/usedcar_image/original/used_car_2706118_1677224498.jpg?imwidth=320",
+            "category": "car",
+            "price": 5000000,
+            "description": "2016 Mercedes-Benz GLS Business class",
+            "location": "Nagpur",
+            "uploadeddate": "3 April"
+        },
+        {
+            "id": 28,
+            "image": "https://images10.gaadi.com/usedcar_image/original/usedcar_11_729891680334936_1680334951.jpg?imwidth=320",
+            "category": "car",
+            "price": 3467200,
+            "description": "2015 Hyundai XRt-v345",
+            "location": "West Bengal",
+            "uploadeddate": "23 days ago"
+        },
+        {
+            "id": 29,
+            "image": "https://apollo-singapore.akamaized.net/v1/files/yixc7orfhdhh1-IN/image;s=300x600;q=60",
+            "category": "scooter",
+            "price": 54300,
+            "description": "Honda Grazia in good quality",
+            "location": "Kerala",
+            "uploadeddate": "7 july"
+        },
+        {
+            "id": 30,
+            "image": "https://apollo-singapore.akamaized.net/v1/files/ykxq7yqjtv6j3-IN/image;s=300x600;q=60",
+            "category": "mobile",
+            "price": 19860,
+            "description": "Pocco M3 x5-TY ",
+            "location": "UttarPradesh",
+            "uploadeddate": "1 day ago"
+        },
+        {
+            "id": 31,
+            "image": "https://apollo-singapore.akamaized.net/v1/files/tb44pfb13fv5-IN/image;s=300x600;q=60",
+            "category": "mobile",
+            "price": 78534,
+            "description": "I-Phone 15 in good condition",
+            "location": "Madhya Pradesh",
+            "uploadeddate": "22 days ago"
+        },
+        {
+            "id": 32,
+            "image": "https://apollo-singapore.akamaized.net/v1/files/9fvdwskkjkly1-IN/image;s=300x600;q=60",
+            "category": "house",
+            "price": 5045671,
+            "description": "4 BHK house styleish,class sphistoication",
+            "location": "Gurgaon",
+            "uploadeddate": "28 December"
+        },
+        {
+            "id": 33,
+            "image": "https://apollo-singapore.akamaized.net/v1/files/u3164zuihlpo1-IN/image;s=300x600;q=60",
+            "category": "motorcycle",
+            "price": 123438,
+            "description": "Triumph  rocket 250cc stylsih Bike ",
+            "location": "Uttrakhand",
+            "uploadeddate": "12 february"
+        },
+        {
+            "id": 34,
+            "image": "https://images10.gaadi.com/usedcar_image/original/used_car_2706118_1677224498.jpg?imwidth=320",
+            "category": "car",
+            "price": 5000000,
+            "description": "2016 Mercedes-Benz GLS Business class",
+            "location": "Nagpur",
+            "uploadeddate": "3 April"
+        },
+        {
+            "id": 35,
+            "image": "https://images10.gaadi.com/usedcar_image/original/usedcar_11_729891680334936_1680334951.jpg?imwidth=320",
+            "category": "car",
+            "price": 3467200,
+            "description": "2015 Hyundai XRt-v345",
+            "location": "West Bengal",
+            "uploadeddate": "23 days ago"
+        },
+        {
+            "id": 36,
+            "image": "https://apollo-singapore.akamaized.net/v1/files/yixc7orfhdhh1-IN/image;s=300x600;q=60",
+            "category": "scooter",
+            "price": 54300,
+            "description": "Honda Grazia in good quality",
+            "location": "Kerala",
+            "uploadeddate": "7 july"
+        }
+    ],
+    "carsdata": [
+        {
+            "id": 1,
+            "image": "https://images10.gaadi.com/usedcar_image/original/usedcar_1_729891680334228_1680334248.jpg?imwidth=320",
+            "category": "car",
+            "price": 345000,
+            "description": "2017 Renault KWID Climber 40Km/hr speed",
+            "location": "Chandigarh",
+            "uploadeddate": "16 July"
+        },
+        {
+            "id": 2,
+            "image": "https://images10.gaadi.com/usedcar_image/original/zz1_crop_img_6427f5f9610a4_1680340473.jpeg?imwidth=320",
+            "category": "car",
+            "price": 270000,
+            "description": "2019 BMW X5 xDrive 30d xLin",
+            "location": "Pune",
+            "uploadeddate": "15 March"
+        },
+        {
+            "id": 3,
+            "image": "https://images10.gaadi.com/usedcar_image/original/usedcar_camera_front_729891680346697_1680346708.jpg?imwidth=320",
+            "category": "car",
+            "price": 460000,
+            "description": "2018 Mahindra Thar CRDe",
+            "location": "Lucknow",
+            "uploadeddate": "1 day ago"
+        },
+        {
+            "id": 4,
+            "image": "https://images10.gaadi.com/usedcar_image/original/usedcar_1_17__10151677648429_1677653432.jpeg?imwidth=320",
+            "category": "car",
+            "price": 667000,
+            "description": "2016 Mercedes-Benz GLS 320Vg",
+            "location": "Punjab",
+            "uploadeddate": "9 days ago"
+        },
+        {
+            "id": 5,
+            "image": "https://images10.gaadi.com/usedcar_image/original/usedcar_77_729891676901949_1676901971.jpg?imwidth=320",
+            "category": "car",
+            "price": 835450,
+            "description": "2019 Maruti Vitara Brezza V78Q",
+            "location": "Himachal Pradesh",
+            "uploadeddate": "1 October"
+        },
+        {
+            "id": 6,
+            "image": "https://images10.gaadi.com/usedcar_image/original/usedcar_101_729891680347508_1680347522.jpg?imwidth=320",
+            "category": "car",
+            "price": 890000,
+            "description": "2020 Mahindra Thar LX 4-Straight",
+            "location": "Kerala",
+            "uploadeddate": "11 September"
+        },
+        {
+            "id": 7,
+            "image": "https://images10.gaadi.com/usedcar_image/original/usedcar_1_1__10151679213812_1679213860.jpeg?imwidth=320",
+            "category": "car",
+            "price": 1060000,
+            "description": "2017 Mercedes-Benz GLA Class",
+            "location": "Chattisgarh",
+            "uploadeddate": "24 August"
+        },
+        {
+            "id": 8,
+            "image": "https://images10.gaadi.com/usedcar_image/original/zz1_crop_img_6427b40e38c05_1680323598.jpg?imwidth=320",
+            "category": "car",
+            "price": 1240000,
+            "description": "2018 Maruti Vitara Brezza VD",
+            "location": "Goa",
+            "uploadeddate": "13 days ago"
+        },
+        {
+            "id": 9,
+            "image": "https://images10.gaadi.com/usedcar_image/original/zz1_crop_img_6427b86b78d3b_1680324715.jpg?imwidth=320",
+            "category": "car",
+            "price": 1470000,
+            "description": "2016 Renault Duster Petrol R",
+            "location": "Mizoram",
+            "uploadeddate": "29 days ago"
+        },
+        {
+            "id": 10,
+            "image": "https://images10.gaadi.com/usedcar_image/original/z_blur_img_6427c41026114_1680327696.jpg?imwidth=320",
+            "category": "car",
+            "price": 2800000,
+            "description": "2019 Mercedes-Benz GLE  78000kms",
+            "location": "Bihar",
+            "uploadeddate": "3 march"
+        },
+        {
+            "id": 11,
+            "image": "https://images10.gaadi.com/usedcar_image/original/zz1_crop_img_63915f01c6fe1_1670471425.jpeg?imwidth=320",
+            "category": "car",
+            "price": 3450000,
+            "description": "2021 Toyota Fortuner 4X4 Diesel",
+            "location": "Ranchi",
+            "uploadeddate": "1 January"
+        },
+        {
+            "id": 12,
+            "image": "https://images10.gaadi.com/usedcar_image/original/usedcar_2_729891678445441_1678445453.jpg?imwidth=640",
+            "category": "car",
+            "price": 7550000,
+            "description": "2020 Maruti SX4 S Cross,extra airbags",
+            "location": "Bangalore",
+            "uploadeddate": "13 days ago"
+        }
+    ]
+}
